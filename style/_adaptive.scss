@@ -1,0 +1,497 @@
+
+
+@media (max-width:1200px){
+    .main{
+        .main__partners{    
+            .partners__inner{
+                .partners__block{
+                    width: 50%;    
+
+                    
+                }
+                .partners__block-2{
+                    width: 50%;   
+                    .airplan-img{
+                        padding-left: 30px;
+                        width: 140px;
+                    }
+                    .partners__region{
+                        padding-left: 30px;
+                        padding-right: 30px;
+                    }
+                    .partners__city{
+                        padding-left: 30px;
+                        padding-right: 30px;
+                    }
+                    .partners__info{
+                        padding-left: 30px;
+                        padding-right: 30px;
+                    }
+                }            
+            }
+        }
+    }
+}
+@media (max-width:1024px){
+    .header{
+        .header__logo{
+            margin-left: 50px;
+        }
+        .header__connect{
+            margin-right: 50px;
+        }
+    }
+    
+    .main{
+        .main__girl{
+            padding-left: 50px;
+        }
+        .main__we{
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+    
+        .main__toUs{
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+        .main__brand{
+            .brand__text{
+                margin-left: 50px;
+                margin-right: 50px;
+            }
+            .brand__img{
+                .brand-block-1{
+                    .brand__vector-1{
+                        width: 30%;
+                        .vector-1{
+                            width: 140px;
+                        }
+                    }
+                    .brand__img-1{
+                        width: 40%;
+                        .brand-1{
+                            width: 80%;
+                        }
+                    }
+                    .brand__vector-2{
+                        width: 30%;
+                        .vector-2{
+                            width: 140px;
+                        }
+                    }
+                }
+                .brand-block-2{
+                    .brand__img-2{
+                        margin-left: 20px;
+                        .brand-2{
+                            width: 270px;
+                        }
+                    }
+                    .brand__img-3{
+                        margin-right: 20px;
+                        .brand-3{
+                            width:270px;
+                        }
+                    }
+                }
+    
+            }
+            .product{
+                margin-left: 50px;
+                margin-right: 50px;
+            }
+        }
+        .main__partners{
+            display: flex;
+            flex-direction: column;
+            margin-right: 50px;
+            margin-left: 50px;
+            
+        }
+        .main__coopiration{
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+    }
+    .footer{
+        .footer__contacts{
+            margin-right: 50px;
+            margin-left: 50px;
+            .contacts__block{
+                width: 50%;
+                margin-top: 40px;
+            
+                .contacts-img{
+                    padding-left: 0px;
+                    width: 40px;
+                }
+            }
+        }
+    }
+}
+@media (max-width:850px){
+    .main{
+        .main__girl{
+            .girl__title{
+                padding-top: 100px;
+            }
+            .girl__footer{
+                padding-bottom: 100px;
+            }
+        }
+        .main__we{
+            .we__logo{
+                width: 250px;
+            }
+            .we__text{
+                margin-top: 30px;
+            }
+            .we__title{
+                margin-top: 30px;
+                line-height: 50px;
+            }
+            .we__column{
+                .column-1{
+                    margin-top: 0;
+                    width: 100%;
+                    .column__block{
+                        margin-top: 30px;
+                        .column-img{
+                            width: 40px;
+                        }
+                    }
+                }
+                .column-2{
+                    margin-top: 0px;
+                    width: 100%;
+                    .column__block{
+                        padding-left: 0px;
+                        margin-top: 30px;
+                        .column-img{
+                            width: 40px;
+                        }
+                    }
+                }
+            }
+        }
+    
+        .main__toUs{
+            margin-top: 30px;
+            padding-left: 50px;
+            padding-right: 50px;
+            .toUs__title{
+                margin-top: 30px;
+                line-height: 50px;
+            }
+            .toUs__own{
+                margin-top: 25px;
+            }
+        }
+        .main__brand{
+            .brand__text{
+                margin-top: 30px;
+                margin-bottom: 30px;        
+                margin-left: 50px;
+                margin-right: 50px;
+            }
+            .brand__title{
+                margin-top: 30px;
+                line-height: 50px;
+            }
+            .brand__img{
+                .brand-block-1{
+                    padding-top: 30px;
+                    .brand__vector-1{
+                        width: 35%;
+                        .vector-1{
+                            width: 110px;
+                        }
+                    }
+                    .brand__img-1{
+                        width: 30%;
+                        .brand-1{
+                            width: 80%;
+                        }
+                    }
+                    .brand__vector-2{
+                        width: 35%;
+                        .vector-2{
+                            width: 110px;
+                        }
+                    }
+                }
+                .brand-block-2{
+                    .brand__img-2{
+                        margin-left: 20px;
+                        .brand-2{
+                            width: 220px;
+                        }
+                    }
+                    .brand__img-3{
+                        margin-right: 20px;
+                        .brand-3{
+                            width:220px;
+                        }
+                    }
+                }
+    
+            }
+            .product{
+                margin-left: 50px;
+                margin-right: 50px;
+                .product__text{
+                    margin-top: 30px;
+                }
+                .product__point{
+                    margin-top: 25px;
+                }
+                .assotment{
+                    margin-top: 30px;
+                }
+            }
+        }
+        .main__partners{
+            display: flex;
+            flex-direction: column;
+            margin-right: 50px;
+            margin-left: 50px;
+            .partners__inner{               
+                .partners__block{
+                    margin-top: 25px;
+                    .airplan-img{
+                        padding-left: 15px;
+                        width: 90px;
+                    }
+                    .partners__region{
+                        margin-top: 15px;
+                        padding-left: 15px;
+                        padding-right: 0px;        
+                    }
+                    .partners__city{
+                        padding-left: 15px;
+                        padding-right: 0px;
+                    }
+                    .partners__info{
+                        padding-left: 15px;
+                        padding-right: 0px;
+                        margin-top: 10px;
+                    }
+                }
+                .partners__block-2{
+                    margin-top: 25px;
+                    .airplan-img{
+                        padding-left: 15px;
+                        width: 90px;
+                    }
+                    .partners__region{
+                        margin-top: 15px;
+                        padding-left: 15px;
+                        padding-right: 0px;        
+                    }
+                    .partners__city{
+                        padding-left: 15px;
+                        padding-right: 0px;
+                    }
+                    .partners__info{
+                        padding-left: 15px;
+                        padding-right: 0px;
+                        margin-top: 10px;
+                    }
+                }
+            }
+        }
+        .main__coopiration{
+            margin-left: 50px;
+            margin-right: 50px;
+            .coopiration__title{
+                margin-top: 50px;
+            }
+            .coopiration__text{
+                margin-top: 30px;
+            }
+            .product__point{
+                margin-top: 25px;
+            }
+            .steps{
+                margin-top: 25px;
+                .img-steps{
+                    width: 40px;
+                }
+            }
+            .coopiration__info{
+                margin-top: 50px;
+            }
+            .coopiration__info-2{
+                margin-top: 50px;
+                margin-bottom: 100px;
+            }
+        }
+    }
+    .footer{
+        .footer__contacts{
+            margin-top: 10px;
+            margin-right: 50px;
+            margin-left: 50px;
+            .contacts__block{
+                width: 100%;
+                margin-top: 25px;
+            
+                .contacts-img{
+                    padding-left: 0px;
+                    width: 40px;
+                }
+            }
+        }
+        .footer__nav{
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+    }
+}
+@media (max-width:560px){
+    .header{
+        .header__logo{
+            margin-left: 30px;
+        }
+        .header__connect{
+            display: none;
+            margin-right: 50px;
+        }
+    }
+    .main{    
+        .main__girl{
+
+            .girl__title{
+                padding-top: 100px;
+            }
+            .girl__footer{
+                padding-top: 20px;
+                padding-bottom: 0px;
+            }
+            .girl__connect{
+                margin-top: 40px;
+                margin-bottom: 200px;
+                display: flex;
+                
+                .girl__btn{
+                    border: 1px solid #D9D9D9;
+                    border-radius: 100px;
+                    padding: 12px 20px;
+                    display: flex;
+                    justify-content: center;
+                    align-items:center;
+                    .btn__text{
+                        font-weight: 400;
+                        font-size: 12px;
+                        color:#FFFFFF;
+                    }
+                    .btn__vector{
+                        display: flex;
+                        margin-left: 15px;
+                        .btn-img{
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+        }
+        
+        .main__we{
+            padding-left: 30px;
+            padding-right: 30px;
+            .we__logo{
+                width: 200px;
+            }
+        }
+        .main__toUs{
+            padding-left: 30px;
+            padding-right: 30px;
+        }
+        .main__brand{
+            .brand__title{
+                margin-left: 30px;
+                margin-right: 30px;
+            }
+            .brand__img{
+                .brand-block-1{
+                    padding-top: 30px;
+                    .brand__vector-1{
+                        width: 35%;
+                        .vector-1{
+                            width:60px;
+                        }
+                    }
+                    .brand__img-1{
+                        width: 30%;
+                        .brand-1{
+                            width: 80%;
+                        }
+                    }
+                    .brand__vector-2{
+                        width: 35%;
+                        .vector-2{
+                            width: 60px;
+                        }
+                    }
+                }
+                .brand-block-2{
+                    .brand__img-2{
+                        margin-left: 0px;
+                        .brand-2{
+                            width: 150px;
+                        }
+                    }
+                    .brand__img-3{
+                        margin-right: 0px;
+                        .brand-3{
+                            width:150px;
+                        }
+                    }
+                }
+    
+            }
+            .product{
+                margin-left: 30px;
+                margin-right: 30px;
+            }
+        }
+        .main__partners{
+            margin-right: 30px;
+            margin-left: 30px;
+            .partners__inner{
+                .partners__block{
+                    width: 100%;
+                    .airplan-img{
+                        width: 80px;
+                    }
+                }
+                .partners__block-2{
+                    width:100%;
+                    .airplan-img{
+                        width: 80px;
+                    }
+                }
+            }
+        }
+        .main__coopiration{
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+    }
+    .footer{
+        .footer__title{
+            margin-top: 30px;
+        }
+        .footer__contacts{
+            margin-top: 0px;
+            margin-right: 30px;
+            margin-left: 30px;
+            .contacts__block{
+                margin-top: 25px;
+            }
+        }
+    }
+}
+@media (max-width:440px){
+}
