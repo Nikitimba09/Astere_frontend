@@ -1703,7 +1703,7 @@ html, body {
     margin-top: 25px;
   }
   .main .main__partners .partners__inner .partners__block .airplan-img {
-    padding-left: 15px;
+    padding-left: 30px;
     width: 90px;
   }
   .main .main__partners .partners__inner .partners__block .partners__region {
@@ -1724,8 +1724,8 @@ html, body {
     margin-top: 25px;
   }
   .main .main__partners .partners__inner .partners__block-2 .airplan-img {
-    padding-left: 15px;
-    width: 90px;
+    padding-left: 30px;
+    width: 300px;
   }
   .main .main__partners .partners__inner .partners__block-2 .partners__region {
     margin-top: 15px;
