@@ -176,7 +176,7 @@ html, body {
       -ms-flex-direction: column;
           flex-direction: column;
   color: #FFFFFF;
-  background: url("/img/bg-1.png"), no-repeat;
+  background: url("../img/bg-1.png"), no-repeat;
   background-position: center;
   padding-left: 120px;
 }
